@@ -1,5 +1,5 @@
 /**
- * This program will display the maximum and minimum values goven three numbers.
+ * This program will display the maximum and minimum values given three numbers.
  * Author: Ryan O'Keeffe
  */
 import java.util.Scanner;
